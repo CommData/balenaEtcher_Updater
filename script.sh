@@ -2,7 +2,7 @@
 # GitHub repository owner and name
 OWNER="balena-io"
 REPO="etcher"
-file_path="$HOME/Apps/balenaEtcher/currVer.txt"
+file_path="$HOME/.apps/balenaEtcher/currVer.txt"
 if [ -e "$file_path" ]; then
   current_version=$(cat "$file_path")
 else
