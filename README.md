@@ -1,2 +1,2 @@
 # balenaEtcher_Updater
-Auto Updater for balenaEtcher Appimage
+Auto Updater for balenaEtcher Appimagee
